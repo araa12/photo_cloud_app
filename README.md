@@ -1,4 +1,4 @@
-# photo_cloud
+Photo Cloud App
 Upload Images to Firebase and view inside app in grid view 
 
  
