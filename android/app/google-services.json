@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11515726217",
+    "project_id": "photo-cloud-app",
+    "storage_bucket": "photo-cloud-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11515726217:android:a4690c59184585afa4b958",
+        "android_client_info": {
+          "package_name": "com.arzam.photo_cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11515726217-loufo9fdavr69uksq738vpm167aio9mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhC859AdCQzYbGHwwjEShvL-uXvCLSaF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11515726217-loufo9fdavr69uksq738vpm167aio9mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
